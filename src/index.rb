@@ -6,7 +6,7 @@
 
 resultado  = ''
 
-loop do z
+loop do
  # Limpa a tela para o menu aparecer sempre no topo    
     system "cls" 
 
